@@ -1,6 +1,6 @@
-# Summer-Intern-Raw-Model
-Categorisation in Search 
+Text Categorisation of DBPedia using Latent Dirichlet Allocation 
 
-This piece of code shows a raw model built to introduce the categorisation in the given data. The data used
-for this project is collected from DBPedia, and is queried using SPARQL. The model is trained using LDA and nltk to give the
-search results. 
+
+Built a Proof of Concept  to associate categorization of the text using Topic Modelling Approach such as Latent Dirichlet Allocation on the DBPedia Text. 
+Python tools: nltk, gensim, lda,
+Query Language:  SPARQL
